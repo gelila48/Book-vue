@@ -1,10 +1,11 @@
 <template>
   <div id="app">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld />
   </div>
 </template>
 
 <script>
+// import NavBar from './components/NavBar.vue'
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
